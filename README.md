@@ -1,4 +1,4 @@
-# NintendoClassicRewind
+# ClassicRewind
 An emulated controller that goes home and enters the rewind function when commanded.
 
 ### Overview
